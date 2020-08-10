@@ -1,0 +1,18 @@
+- Instale el paquete pre-activado. No requerirá nada para la activación.
+
+- Se puede instalar sin conexión o en línea ya que el instalador está parcheado.
+
+- La corrección de la pantalla de inicio está integrada en el instalador.
+
+- Las características del H265, HEVC, etc. están completamente activadas.
+_________________________________________________________________
+- Install pre-activated ready-to-use package. It will not require anything for activation.
+
+- You can install offline or online as the installer is patched out.
+
+- Home Screen fix is built into the installer, however left it separately as alternative.
+
+- H265, HEVC etc.. features are fully activated.
+
+
+Suscribete a mi canal para mas contenido parecido a este :)!!!!! 
